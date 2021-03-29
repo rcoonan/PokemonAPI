@@ -1,0 +1,33 @@
+body{
+    background-color: blue;
+    justify-content: center;
+}
+
+.lead{
+    color:black;
+    text-align: center;
+}
+
+button{
+    background-color: yellow;
+    text-align: center;
+    color: blue;
+    margin: 1px;
+    text-transform: capitalize;
+}
+
+.pokemonList
+{
+    align-items: left;
+}
+
+.results{
+    align-items: right;
+}
+
+.results{
+    text-align: center;
+    border: solid black 5px;
+    border-width: 50px;
+    
+}
